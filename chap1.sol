@@ -1,7 +1,11 @@
 pragma solidity ^0.4.19;
 
-contract Zombies {
- // code
+contract ZombieFactory {
+ 
+ 
+ // type name_variable = expression ; in the blockchain
+ 
+ uint dnaDigits = 16;
  
  
  }
